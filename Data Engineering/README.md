@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode Database
 Collection of my solutions to Leetcode Data Engineering problems.  
 Solutions are written in Python using Pandas dataframes.  
 
